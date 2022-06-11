@@ -1,14 +1,18 @@
 .body_backgorund 
 {
-    background-image:url(hOye.gif);
+    background-image:url(balloons.gif);
     background-position:center;
     background-size:cover;
 }
 #myCanvas
 {
-   border-width: 10px;
+   border-width:10px;
    background-color: white;
-   border-style: ridge;
-   border-color: darkviolet;
+   border-style:ridge;
+   border-color:darkviolet;
+   background-image:url(BirthdayImage.jpg);
+   background-size: 100%;
 }
+
+
 
